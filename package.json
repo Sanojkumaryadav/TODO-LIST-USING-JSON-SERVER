@@ -1,0 +1,19 @@
+{
+  "name": "todo-list-using-json-server",
+  "version": "1.0.0",
+  "description": "Todolist Using JSON server All you need to make today is a todo list application. If incase you don't know what a todolist is; It's basically an application is wherein user keeps track of all the tasks a user gotta do and it's completing status;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanojkumaryadav/TODO-LIST-USING-JSON-SERVER.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanojkumaryadav/TODO-LIST-USING-JSON-SERVER/issues"
+  },
+  "homepage": "https://github.com/Sanojkumaryadav/TODO-LIST-USING-JSON-SERVER#readme"
+}
